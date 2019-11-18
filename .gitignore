@@ -222,15 +222,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-VIRTUAL_ENV_SCOPES/__init__.py
-__init__.py
-src/repo/__init__.py
-src/repo/files/
-config.cfg
-config.py
-pytest.ini
-requirements.txt
-src/__init__.py
-src/base/
-src/entities/
-tests/
+.idea
+.idea/$CACHE_FILE$
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/.gitignore
+.idea/image_detector.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
