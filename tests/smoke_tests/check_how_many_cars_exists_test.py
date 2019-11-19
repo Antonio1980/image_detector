@@ -7,6 +7,7 @@ from src.base.log_decorator import automation_logger
 
 
 @allure.feature("Label")
+@pytest.mark.smoke
 @pytest.mark.usefixtures("img_detector")
 class TestHowManyCars(object):
 
