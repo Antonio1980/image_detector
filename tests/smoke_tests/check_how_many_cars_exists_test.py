@@ -1,4 +1,3 @@
-import os
 import allure
 import pytest
 from config import BaseConfig
