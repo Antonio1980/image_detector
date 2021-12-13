@@ -28,7 +28,7 @@ Keras-Applications==1.0.8
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
 luminoth==0.2.3
-lxml==4.6.3
+lxml==4.6.5
 Markdown==3.3.4
 MarkupSafe==2.0.1
 numpy==1.19.5
